@@ -13,6 +13,8 @@ Dimensionality Reduction: Used PCA (Principal Component Analysis) to visualize h
 
 Advanced Visualization: Created detailed scatter plots using Seaborn to map the 5 customer segments.
 
+Centroid Mapping: Plotted cluster centers to represent the "ideal" customer profile for each segment.
+
 📊 Dataset Description
 The Mall_Customers.csv dataset includes:
 
@@ -37,7 +39,7 @@ Frugal: Low Income, Low Spending.
 Clone the repo:
 
 Bash
-git clone https://github.com/YourUsername/Customer-Segmentation-KMeans.git
+git clone [https://github.com/AyeshaArshad-22/Customer-Segmentation-KMeans.git](https://github.com/AyeshaArshad-22/Customer-Segmentation-KMeans.git)
 Install dependencies:
 
 Bash
